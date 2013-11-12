@@ -1,6 +1,6 @@
 {
   "name": "cryptocoin-qr-encode",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Encode a string into a QR code.",
   "keywords": [
     "qr",
