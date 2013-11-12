@@ -1,0 +1,23 @@
+{
+  "name": "cryptocoin-qr-encode",
+  "version": "0.0.0",
+  "description": "Encode a string into a QR code.",
+  "keywords": [
+    "qr",
+    "qr code",
+    "QR",
+    "barcode",
+    "barcodes",
+    "bar",
+    "code",
+    "encode",
+    "2d"
+  ],
+  "ignore": [
+    "node_modules",
+    ".DS_Store"
+  ],
+  "dependencies": {},
+  "repo": "https://github.com/cryptocoinjs/qr-encode",
+  "main": "./lib/qr-encode.js"
+}
