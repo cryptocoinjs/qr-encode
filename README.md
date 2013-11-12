@@ -38,7 +38,7 @@ QR Codes
 
 You should glance at this: http://en.wikipedia.org/wiki/QR_code
 
-**Error Correction:***
+**Error Correction:**
 
 - Level L (Low) 7% of codewords can be restored.
 - Level M (Medium)  15% of codewords can be restored.
