@@ -3,7 +3,6 @@ qr-encode
 
 JavaScript component to encode strings into QR codes.
 
-AMD/CommonJS compatible.
 
 It's a repackage of http://d-project.googlecode.com/svn/trunk/misc/qrcode/js/qrcode.js with minor modifcations by https://github.com/pointbiz/bitaddress.org/blob/master/src/qrcode.js and myself for package support.
 
@@ -13,7 +12,7 @@ Install
 
 ### Node.js/Browserify
 
-    npm install --save cryptocoin-qr-encode
+    npm install --save qr-encode
 
 ### Component
 
@@ -22,7 +21,7 @@ Install
 
 ### Bower
 
-    bower install cryptocoin-qr-encode
+    bower install qr-encode
 
 
 ### Script
