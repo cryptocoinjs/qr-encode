@@ -1,3 +1,7 @@
+0.2.0 / 2014-07-02
+------------------
+* deleted `bower.json` and `component.json`
+
 0.1.0 / 2013-11-20
 ------------------
 * changed package name 
