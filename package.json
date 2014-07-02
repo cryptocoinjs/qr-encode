@@ -15,7 +15,8 @@
   ],
   "devDependencies": {
     "mocha": "1.*",
-    "terst": "0.0.1"
+    "terst": "0.0.1",
+    "mochify": "^0.10.0"
   },
   "repository": {
     "url": "https://github.com/cryptocoinjs/qr-encode",
