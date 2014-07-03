@@ -1,6 +1,9 @@
 qr-encode
 ==========
 
+[![build status](https://secure.travis-ci.org/cryptocoinjs/qr-encode.png)](http://travis-ci.org/cryptocoinjs/qr-encode)
+[![Coverage Status](https://img.shields.io/coveralls/cryptocoinjs/qr-encode.svg)](https://coveralls.io/r/cryptocoinjs/qr-encode)
+
 JavaScript component to encode strings into QR codes.
 
 Official documentation:
