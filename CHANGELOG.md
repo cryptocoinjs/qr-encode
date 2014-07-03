@@ -4,6 +4,8 @@
 * added fixture tests
 * refactored a lot of code into separate files
 * works in Node.js now too
+* added Travis-CI
+* added Coveralls
 
 0.1.0 / 2013-11-20
 ------------------
