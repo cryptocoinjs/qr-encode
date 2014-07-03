@@ -5,7 +5,7 @@ qr-encode
 [![Coverage Status](https://img.shields.io/coveralls/cryptocoinjs/qr-encode.svg)](https://coveralls.io/r/cryptocoinjs/qr-encode)
 [![Version](http://img.shields.io/npm/v/qr-encode.svg)](https://www.npmjs.org/package/qr-encode)
 
-JavaScript component to encode strings into QR codes.
+JavaScript component to encode strings into QR codes. Works in both Node.js and the browser.
 
 Official documentation:
 
