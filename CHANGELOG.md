@@ -1,3 +1,7 @@
+0.3.0 / 2014-10-20
+------------------
+- expand QR version from 10 to 40 / https://github.com/cryptocoinjs/qr-encode/pull/2
+
 0.2.0 / 2014-07-02
 ------------------
 * deleted `bower.json` and `component.json`
