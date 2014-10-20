@@ -27,7 +27,7 @@
   "main": "./lib/qr-encode.js",
   "dependencies": {},
   "scripts": {
-    "coverage": "./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- --reporter list test/*.js",
+    "coverage": "./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- --reporter list test/*.js --timeout 15000",
     "coveralls": "npm run-script coverage && node ./node_modules/.bin/coveralls < coverage/lcov.info",
     "test": "npm run-script unit",
     "unit": "./node_modules/.bin/mocha"
