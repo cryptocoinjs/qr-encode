@@ -7,7 +7,7 @@ qr-encode
 
 JavaScript component to encode strings into QR codes. Works in both Node.js and the browser.
 
-Official documentation:
+### Official Documentation
 
 http://cryptocoinjs.com/modules/misc/qr-encode/
 
